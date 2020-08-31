@@ -17,3 +17,8 @@ Weather Report for Aug. 30th 2020 as reported by Eric, the missed a few days dud
     Today's weather report fortells it to be a slightly cooler day in Orem than the last reports listed here with a high of 88.
     Currently during the morning hours, the temperature is at 76 degrees fahrenheit. Overall, a balmy time of day for Orem.
 That's today's weather. This has been Eric, the missed a few days dude, committing and saving.
+
+Weather Report for Aug. 31st 2020 as reported by Eric, the forgot to push his commits yesterday dude.
+    Today's weather report is actually chiller than the past few days with the weather slated to only reach a high of 78 degrees today in Orem.
+    As of time of writing, we have hit that temperature and it's rather odd feeling cold again in the middle of the summer.
+That's today's weather. This has been Eric, the forgot to push his commits yesterday dude, committing and saving and pushing as well.
