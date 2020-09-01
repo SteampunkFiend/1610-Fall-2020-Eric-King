@@ -22,3 +22,8 @@ Weather Report for Aug. 31st 2020 as reported by Eric, the forgot to push his co
     Today's weather report is actually chiller than the past few days with the weather slated to only reach a high of 78 degrees today in Orem.
     As of time of writing, we have hit that temperature and it's rather odd feeling cold again in the middle of the summer.
 That's today's weather. This has been Eric, the forgot to push his commits yesterday dude, committing and saving and pushing as well.
+
+Weather Report for Sep. 1st 2020 as reported by Eric, the kinda hungry dude.
+    Today's weather is expected to be cool once again. Highs are expected to be in the mid 70's for Orem so if you hate even the slightest of cold, it's jacket time.
+    As for the weather currently, it is right now a mild 61 degrees fahrenheit in Orem. Plan accordingly for the rest of this cool day and night.
+That's today's weather. This has been Eric, the kinda hungry dude, commiting and saving and once again, remembering to push.
