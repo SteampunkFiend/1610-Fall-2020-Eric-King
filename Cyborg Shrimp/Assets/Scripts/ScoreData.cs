@@ -4,10 +4,10 @@ using UnityEngine;
 
 public class ScoreData : MonoBehaviour
 {
-    public string Score;
+    public int Score = 0;
     void Start()
-    {
-        Score = "0";
+    { 
+        
     }
     
     void Update()
