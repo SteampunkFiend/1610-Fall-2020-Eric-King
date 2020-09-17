@@ -3,7 +3,7 @@ using UnityEngine;
 
 public class HealthPowerUp : MonoBehaviour
 {
-    public int Health = 100;
+    public static int Health = 100;
     
     //I tried to add something to make health increase in steps but this didn't work to plan.
     //public int HealthBoost = 15;
