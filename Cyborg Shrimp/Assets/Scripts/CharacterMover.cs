@@ -6,7 +6,7 @@ using UnityEngine;
 public class CharacterMover : MonoBehaviour
 {
    private CharacterController controller;
-   public float moveSpeed = 3f, gravity = -9.8f, jumpForce = 20f;
+   public float moveSpeed = 10f, gravity = -9.8f, jumpForce = 15f;
 
    private Vector3 moveDirection;
    private float yDirection;
